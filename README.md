@@ -14,7 +14,7 @@ git commit -m "Initial commit"
 ```
 
 ### Récuperer le repo sur Github
-`git clone *<mon-projet>*.git chemin/vers/mon_dossier`
+`git clone *mon-projet*.git mon_dossier`
 
 ### Status des fichiers
 *La commande git status vous montrera les différents états des fichiers de votre répertoire de travail et de l’index. Quels sont les fichiers modifiés et non indexés et lesquels sont indexés mais pas encore validés. *
